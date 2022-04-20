@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "774262195373",
+    "project_id": "lab8-d5b67",
+    "storage_bucket": "lab8-d5b67.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:774262195373:android:5403523c61fba07faf3224",
+        "android_client_info": {
+          "package_name": "com.example.lab8"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "774262195373-82mc56fblnodmcka9ljr90tte9si4v9s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAhUmEPEVKU_7eDkRBJEvnZYUegWKxjgXE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "774262195373-82mc56fblnodmcka9ljr90tte9si4v9s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
